@@ -1,1 +1,2 @@
-Photostory Project
+Photostory Project - 
+Linh Pham
